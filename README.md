@@ -22,5 +22,5 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="Jukoi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JukoiDev&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jukoi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JukoiDev&show_icons=true&hide_border=true&theme=radical" />
 </details>

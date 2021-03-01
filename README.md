@@ -2,8 +2,10 @@
 
 ## I'm a Developer and Student!
 
+- ☕ JAVA IS MY LIFE
 - 🌱 I’m currently learning useless things(SCHOOL)
-- ⚡ Fun fact: I hate school
+- 🥅 2021 Goals: Contribute more
+- ⚡ Fun fact: I hate school, because of teachers
 
 <br />
 

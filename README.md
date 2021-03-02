@@ -3,6 +3,7 @@
 ## I'm a Developer and Student!
 
 - ☕ JAVA IS MY LIFE
+- 📚 I want to learn [🅰️ngular](https://github.com/angular/angular)
 - 🌱 I’m currently learning useless things(SCHOOL)
 - 🥅 2021 Goals: Contribute more
 - ⚡ Fun fact: I hate school, because of teachers
@@ -26,3 +27,5 @@
 
   <img align="left" alt="Jukoi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JukoiDev&show_icons=true&hide_border=true&theme=synthwave" />
 </details>
+
+**Check the Repositories and don't forget to give a star.** 👇

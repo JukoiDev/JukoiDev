@@ -3,7 +3,7 @@
 ## I'm a Developer and Student!
 
 - ☕ JAVA IS MY LIFE
-- 📚 I want to learn [🅰️ngular](https://github.com/angular/angular)
+- 📚 I want to learn pentesting
 - 🌱 I’m currently learning useless things(SCHOOL)
 - 🥅 2021 Goals: Contribute more
 - ⚡ Fun fact: I hate school, because of teachers
